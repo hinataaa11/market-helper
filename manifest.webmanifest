@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "賣場對帳小幫手",
+  "short_name": "賣場對帳",
+  "description": "賣場訂單、待出貨、庫存、中信帳戶、進價毛利與封存管理。",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f2eb",
+  "theme_color": "#d8c3a5",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
